@@ -1,1 +1,2 @@
-QR text
+QR img
+<img src={{$url}}>
